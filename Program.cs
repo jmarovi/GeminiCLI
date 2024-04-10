@@ -5,7 +5,7 @@ namespace GeminiCLI;
 
 class Program {
     // API key
-    static readonly string key = "AIzaSyDFJTe6TZ_8fpoO-QNOYjlvoYmN5g8PqAY";
+    static readonly string key = "YOUR_API_KEY_HERE";
 
     // Endpoint for the model
     static readonly string modelEndpoint = $"https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key={key}";
