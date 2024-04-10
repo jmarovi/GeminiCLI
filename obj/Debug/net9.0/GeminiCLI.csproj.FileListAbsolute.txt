@@ -1,0 +1,14 @@
+c:\Users\James\Code\GeminiCLI\bin\Debug\net9.0\GeminiCLI.exe
+c:\Users\James\Code\GeminiCLI\bin\Debug\net9.0\GeminiCLI.deps.json
+c:\Users\James\Code\GeminiCLI\bin\Debug\net9.0\GeminiCLI.runtimeconfig.json
+c:\Users\James\Code\GeminiCLI\bin\Debug\net9.0\GeminiCLI.dll
+c:\Users\James\Code\GeminiCLI\bin\Debug\net9.0\GeminiCLI.pdb
+c:\Users\James\Code\GeminiCLI\obj\Debug\net9.0\GeminiCLI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\James\Code\GeminiCLI\obj\Debug\net9.0\GeminiCLI.AssemblyInfoInputs.cache
+c:\Users\James\Code\GeminiCLI\obj\Debug\net9.0\GeminiCLI.AssemblyInfo.cs
+c:\Users\James\Code\GeminiCLI\obj\Debug\net9.0\GeminiCLI.csproj.CoreCompileInputs.cache
+c:\Users\James\Code\GeminiCLI\obj\Debug\net9.0\GeminiCLI.dll
+c:\Users\James\Code\GeminiCLI\obj\Debug\net9.0\refint\GeminiCLI.dll
+c:\Users\James\Code\GeminiCLI\obj\Debug\net9.0\GeminiCLI.pdb
+c:\Users\James\Code\GeminiCLI\obj\Debug\net9.0\GeminiCLI.genruntimeconfig.cache
+c:\Users\James\Code\GeminiCLI\obj\Debug\net9.0\ref\GeminiCLI.dll
